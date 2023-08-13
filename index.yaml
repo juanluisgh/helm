@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mi-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-13T18:01:37.688307067+02:00"
+    description: A Helm chart for Kubernetes
+    digest: a68b4350aaab881186676cf161b12a3c00c9a19b8b193fabbb258412a647e565
+    name: mi-app
+    type: application
+    urls:
+    - mi-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-08-13T18:01:37.68800517+02:00"
